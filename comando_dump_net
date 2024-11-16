@@ -1,0 +1,3 @@
+tcpdump
+Ejecuta: sudo tcpdump -i <interfaz>
+
