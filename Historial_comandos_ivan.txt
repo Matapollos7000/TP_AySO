@@ -1,0 +1,918 @@
+sudo apt upgrade && sudo apt update
+sudo apt upgrade
+ls
+sudo snap install firefox
+sudo apt -get 
+sudo apt -get update
+sudo apt get update
+sudo apt get -update
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get update
+sudo apt upgrade
+apt upgrade
+sudo apt -upgrade
+sudo apt-get update
+ls
+sudo apt update
+sudo apt upgrade
+apt list --upgradable
+sudo apt upgrade
+apt upgrade
+sudo apt get upgrade
+sudo apt-get upgrade
+sudo apt upgrade
+"hola mundo" > mundo.txt
+echo "hola mundo" > archivo.txt
+cat archivo.txt
+nano archivo.txt 
+pwd
+cd : pwd
+cd:pwd
+cd: pwd
+ls -ltah
+cd..
+cd ..
+cd .
+pwd
+ls
+cd ..
+ls
+ls -ltah
+cd .
+.
+cd home
+ls
+cd ivan
+ls
+pwd
+cd ..
+cd
+..
+cd home
+pwd
+cd ..
+cd home
+cd /
+pwd
+cd ..
+cd /
+pwd
+cd .
+pwd
+cd
+ls
+pwd
+man
+man pwd
+man ls
+ma nls
+man ls
+help
+:q
+q
+ls
+help
+cd
+pwd
+history
+cd
+pwd
+mk dir fotos
+ls
+mq dir fotos
+mk dir fotos
+mkdir fotos
+history
+cd fotos/
+history > historial.txt
+ls
+cd
+ls
+cd fotos
+ls
+cd
+cd fotos/
+cat historial.txt 
+cd 
+clear
+history
+clear
+cd 
+ls
+rm mundo.txt 
+ls
+rm archivo.txt 
+ls
+ls /fotos
+cd fotos
+ls
+cd
+ls historial
+ls fotos/
+ls /
+ls nin
+ls bin
+cd
+ls bin
+ls /nin
+ls /root
+ls root
+cd
+ls /root
+history > fotos/otrohistorial.txt
+ls fotos/
+sudosu
+sudo su
+ls dev > dispositivos.txt
+cd
+ls /dev > dispositivos.txt
+cat dispositivos.txt 
+ls
+more dispositivos.txt 
+less dispositivos.txt 
+//.','./',[/;[l/[l;/[o;l]/.kl.
+""?><?<?{>?,;./],./<>?{"{P}"OP{}{}{"{"}"|{"}"L:{{\
+,>>??<:;:::::
+clear history
+q
+exit
+:q
+cd home
+
+
+history
+ls
+tail dispositivos.txt 
+gap dispositivos.txt 
+head dispositivos.txt 
+man head
+head -n dispositivos.txt 
+head -n 4 dispositivos.txt 
+tail -n 5 dispositivos.txt 
+head dispositivos.txt '';[]]./[m,[.[,.[,m[.[p]m,[p.],lg'
+ghk;'
+fg hjkm JK:"?h>?"fgkfghjk
+;'/gj;/'
+dh l;/'
+jdg l
+;'.dgjl;
+head dispositivos.txt -n5
+ls /dev
+ls /dev/v*
+ls /dev/v??
+ls /dev/v???
+ls /dev/v???????????????????????????????????????/
+ls /dev/v????????
+ls /dev/v???????????????????????
+ls /dev/v??????????????????????
+ls /dev/v????????????????????
+ls /dev/v??????????????
+ls /dev/v??????????
+ls /ltah
+ls ltah
+ls -ltah
+de ivan
+cd ivan
+sudo -i
+ls /bin
+ls /tmp
+ls /etc/t*
+cd
+ls -r /etc/t*
+ls /etc/t* | sort -r
+cd $HOME
+cd ..
+cd $HOME
+pwd
+echo $HOME
+/tmp
+cd /tmp
+ls
+pwd
+cd home
+cd
+man pwd
+man cd
+man ls
+home -i]
+home -i
+ls home
+ls
+ls -i
+ls /dev/tty??
+ls -r /etc/t*
+ls /etc/t* | sort -r
+ls /etc/t*
+ls
+/fotos
+cd fotos
+ls
+cd ..
+cd root
+ls
+pwd
+ls /dev/tty
+ls /dev/tty??
+ls /dev/tty?
+ls /dev/tty
+man ls
+ls /dev/tty*
+sl /dev/tty?
+ls /dev/tty?
+ls /dev/tty??
+ls /dev/tty???
+ls /dev/tty[1-4]
+ls /dev/tty[1-9]
+ls /dev/tty[-5-9]
+
+ls /dev/t*c1
+ls /dev/t*C1
+ls
+cat dispositivos.txt 
+history 
+ls /root
+ls -ld /root
+sudo ls /root
+sudo -i
+-ls -A
+ls -A
+ls -la /
+ls -ltah
+ls -ltah /
+/ ls ltah
+ls -la ltah
+ls -la /
+ls -a /
+ls -A /
+ls -A
+ls -ltah
+ls -ltah /
+ls -d /etc/[^t]*
+ls etc/
+ls /etc
+ls /usr/*
+cd tmp
+pwd
+cd..
+ls
+cd ..
+ls
+cd ..
+ls
+cd /tmp
+ls
+cd 
+cd /tmp
+cd
+timedatectl 
+cd
+ls -i
+ls -i /tmp
+cd
+cd 
+ls
+mkdir "PRUEBA"
+ls
+cd /PRUEBA
+cd PRUEBA/
+cd tmp/
+cd /tmp
+cd ..
+ls
+cd tmp/
+cd
+cd PRUEBA/
+ls
+"archivo" > datoj.txt
+archivo > dasd.txt
+asd > dasd.txt
+echo "hola" > kp.txt
+ls
+cat dasd.txt 
+cat datoj.txt 
+cat kp.txt 
+cd 
+rm -rf* PRUEBA/
+rm man
+rm --help
+rm PRUEBA/
+rm PRUEBA/*
+ls
+cd PRUEBA/
+ls
+mkdir "dir1" PRUEBA/
+ls PRUEBA/
+ls
+PRUEBA/ ls
+rm dir1
+rm -r dir1
+ls
+cd PRUEBA/
+ls
+"hola papus" > hola.txt
+echo "hola papus" > hola.txt
+ls
+cat hola.txt 
+ls 
+cd ..
+ls
+ls PRUEBA/
+mkdir "dir1" PRUEBA/
+ls
+rm -r dir1
+ls
+mkdir PRUEBA/dir1 PRUEBA/dir2 PRUEBA/dir3
+ls PRUEBA/
+mkdir PRUEBA/dir3/dir31
+mkdir PRUEBA/dir3/dir31/dir311 
+mkdir PRUEBA/dir3/dir31/dir312
+ls PRUEBA/
+ls PRUEBA/dir3
+ls PRUEBA/dir3/dir31
+PRUEBA/ /etc/motd > mensaje.txt
+cd
+echo /etc/motd > PRUEBA/mensaje.txt
+ls PRUEBA/
+ls PRUEBA/mensaje.txt 
+cat PRUEBA/mensaje.txt 
+ls /etc/motd
+cd ..
+ls
+cd ..
+ls
+cd etc
+ls
+ls -a
+ls -la
+ls motd
+cd
+history
+cat PRUEBA/mensaje.txt 
+echo "hola" > /etc/motd.txt
+sudo -i
+cat /etc/motd.txt 
+rm -r PRUEBA/mensaje.txt 
+ls PRUEBA/
+echo /etc/motd.txt > PRUEBA/mensaje.txt
+cat PRUEBA/mensaje.txt 
+cat PRUEBA/mensaje.txt
+cp /etc/motd.txt mensaje.txt
+ls
+ls PRUEBA/
+rm PRUEBA/mensaje.txt 
+ls PRUEBA/
+cp /etc/motd.txt PRUEBA/mensaje.txt
+ls PRUEBA/
+cat mensaje.txt 
+rm PRUEBA/mensaje.txt 
+ls PRUEBA/
+cp /etc/motd.txt PRUEBA/mensaje
+ls PRUEBA/
+ls PRUEBA/mensaje 
+cat PRUEBA/mensaje 
+cp PRUEBA/mensaje PRUEBA/dir1 PRUEBA/dir2 PRUEBA/dir3
+ls PRUEBA/dir1
+ls PRUEBA/dir3
+cat PRUEBA/dir3/mensaje 
+rm PRUEBA/dir3/mensaje 
+ls PRUEBA/dir3/mensaje 
+ls PRUEBA/dir3 
+cp PRUEBA/mensaje PRUEBA/dir1
+cat PRUEBA/dir1/mensaje 
+cp PRUEBA/mensaje PRUEBA/dir2
+cp PRUEBA/mensaje PRUEBA/dir3
+ls PRUEBA/dir2
+ls PRUEBA/dir3
+ls PRUEBA/dir1 PRUEBA/dir2 PRUEBA/dir3
+ls /dev/t*C1
+ls /dev
+ls /dev/tty*[1-2-3-4]
+ls /dev/tty*[1-4]
+ls /dev/tty[1-4]
+clear
+ls
+echo "hola" > saludar.txt
+ls
+ls -l
+saludar.txt
+ls
+./saludar.txt 
+shmod
+shmod 666 saludar.txt 
+chmod 666 saludar.txt 
+ls -l
+chmod 777 saludar.txt 
+ls -l
+saludar.txt
+./saludar.txt 
+echo hola
+rm saludar.txt 
+ls
+echo "echo hola" > saludar.txt
+chmod 777 saludar.txt 
+./saludar.txt 
+chmod 766 saludar.txt 
+./saludar.txt 
+useradd -s /bin/bash -m -c "usuario prueba" prueba
+sudo -i
+cd ..
+pwd
+ls
+ls etc/password
+cd etc
+ls
+ls passwd
+more /etc/passwd
+id
+id prueba
+id last
+id least
+whoami
+who
+last
+finger
+apt install finger
+sudo apt install finger
+sudo apt get install finger
+sudo dkpg --configure -a
+paswd
+passwd prueba
+sudo passwd prueba
+login
+sudo login
+group add desarollo
+groupadd desarollo
+sudo groupadd desarollo
+cat /etc/group
+groups
+sudo groups
+groups prueba
+groups osboxes
+usermode
+usermod
+-a
+usermod -a
+usermod -a -G
+usermod -a -G desarollo prueba
+sudo usermod -a -G desarollo prueba
+groups prueba 
+sudo usermod -a -G testing prueba
+sudo groupadd testing
+sudo usermod -a -G testing prueba
+mor /etc/passwd
+morw /etc/passwd
+more /etc/passwd
+more /etc/groups
+more /etc/group
+more /etc/shadow
+sudo more /etc/shadow
+clear
+exit
+cd
+pwd
+ls
+mkdir "midir"
+ls
+ls -ld /etc
+ls -ld midir/
+chown midir<
+chown midir
+chown midir/
+man chown
+touch mdir
+ls 
+cat mdir
+history
+chown ivan midir
+ls
+chown osboxes midir
+sudo chown osboxes midir
+ls -l midir
+stat  midir
+chmod 700 midirchmod 700 midir
+chmod 700 midir
+sudo chmod 700 midir
+ls -l
+rm saludar.txt 
+ls -l
+rm mdir
+ls -l
+ls -ld
+chown ivan midir
+sudo chown ivan midir
+ls -l
+chmod 750 midir
+ls -l midir
+ls -l
+ls -ld midir
+chown nobody midir
+sudo chown nobody midir
+ls -ld midir
+cat /etc/group
+ls -ld midir
+cd..
+cd ..
+ls
+cd tmp
+sudo mkdir "ejercitacion"
+cd ejercitacion/
+ls
+cd..
+ls
+cd ..
+ls
+cd
+group add users
+groups add users
+group add "users"
+man chgrp
+asd
+sudo chgrp users midir
+ls -ld midir
+sudo chrgo nogroup
+sudo chgrpo nogroup
+sudo chgrp nogroup
+sudo chgrp nogroup midir
+ls -ld midir
+group add "Recursos"
+group add "recursos"
+group add recursos
+cd
+cd /tmp
+ls
+cd
+mkdir parcial /tmp/ejercitacion/
+mkdir /tmp/ejercitacion/parcial
+sudo mkdir /tmp/ejercitacion/parcial
+ls /tmp/ejercitacion/
+sudo mkdir /tmp/ejercitacion/parcial/informacion
+sudo mkdir /tmp/ejercitacion/parcial/informacion/datos
+sudo mkdir /tmp/ejercitacion/parcial/informacion/asdasdasdadasdasdasda
+clear
+history 
+ls /tmp/ejercitacion/
+ls /tmp/ejercitacion/parcial/
+ls /tmp/ejercitacion/parcial/cursada
+sudo ls /tmp/ejercitacion/parcial/cursada
+sudo mkdir /tmp/ejercitacion/parcial/cursada
+ls  /tmp/ejercitacion/parcial/cursada
+ls /tmp/ejercitacion/parcial/cursada
+ls /tmp/ejercitacion/parcial
+sudo mkdir /tmp/ejercitacion/parcial/cursada/datos
+sudo mkdir /tmp/ejercitacion/parcial/Testing
+sudo mkdir /tmp/ejercitacion/parcial/Testing/fuentes
+sudo mkdir /tmp/ejercitacion/parcial/desarrollo
+sudo mkdir /tmp/ejercitacion/parcial/desarrollo/fuentes
+ls  /tmp/ejercitacion/parcial
+rm /tmp/ejercitacion/parcial/Testing/
+rm -r /tmp/ejercitacion/parcial/Testing/
+rmdir /tmp/ejercitacion/parcial/Testing/
+sudo rmdir /tmp/ejercitacion/parcial/Testing/
+sudo rmdir -r /tmp/ejercitacion/parcial/Testing/
+sudo rm -rzitacion/parcial/desarrollo
+ls  /tmp/ejercitacion/parcial
+sudo rm -r /tmp/ejercitacion/parcial/desarrollo/
+ls  /tmp/ejercitacion/parcial
+mkdir /tmp/ejercitacion/Testing
+sudo mkdir /tmp/ejercitacion/Testing
+sudo mkdir /tmp/ejercitacion/Testing/fuentes
+sudo mkdir /tmp/ejercitacion/desarollo
+sudo mkdir /tmp/ejercitacion/desarollo/fuentes
+sudo mkdir /tmp/ejercitacion/deploy
+sudo mkdir /tmp/ejercitacion/deploy/fuentes
+sudo mkdir /tmp/ejercitacion/respuesta
+sudo mkdir /tmp/ejercitacion/respuesta/archivos
+sudo mkdir /tmp/ejercitacion/respuesta/copia
+cp -r /proc/cpuinfo /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt
+sudo cp -r /proc/cpuinfo /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt
+ls  /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt
+cat  /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt
+clear
+echo "cat /sys/class/net/*/address"  /tmp/ejercitacion/respuesta/archivos/
+echo "cat /sys/class/net/*/address" >  /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo echo "cat /sys/class/net/*/address" >  /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo echo "cat /sys/class/net/*/address"> /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo cat /sys/class/net/*/address > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo cat /sys/class/net/*/address > /tmp/ejercitacion/respuesta/archivos/"apellidoNombreRed.txt"
+sudo cat /sys/class/net/*/address > sudo /tmp/ejercitacion/respuesta/archivos/"apellidoNombreRed.txt"
+sudo "cat /sys/class/net/*/address" > sudo /tmp/ejercitacion/respuesta/archivos/"apellidoNombreRed.txt"
+echo "cat /sys/class/net/*/address" > sudo /tmp/ejercitacion/respuesta/archivos/"apellidoNombreRed.txt"
+ls /tmp/ejercitacion/respuesta/archivos/"apellidoNombreRed.txt"
+ls /tmp/ejercitacion/respuesta/archivos/
+echo "cat /sys/class/net/*/address" > /tmp/ejercitacion/respuesta/archivos/"apellidoNombreRed.txt"
+sudo echo "cat /sys/class/net/*/address" > /tmp/ejercitacion/respuesta/archivos/"apellidoNombreRed.txt"
+sudo echo "cat /sys/class/net/*/address" > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo -i
+sudo echo cat /sys/class/net/*/address > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+cat /sys/class/net/*/address > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo 'cat /sys/class/net/*/address > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+
+
+exit
+asd
+z
+cat /sys/class/net/*/address > "/tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt"
+sudo cat /sys/class/net/*/address > "/tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt"
+cat /sys/class/net/*/address > "/tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt"
+lws
+ls
+cd..
+cd ..
+pwd
+ls
+cd tmp
+ls
+cd ejercitacion/
+ls
+cd respuesta/archivos/
+ls
+cat apellidoCPU.txt 
+cd ..
+ls
+cd archivos/
+ls
+cat apellidoCPU.txt 
+clear
+more apellidoCPU.txt 
+man touch
+clear
+cd /ejercitacion/
+cd /tmp/
+cd ejercitacion/
+ls
+sudo adduser lectorhistory
+history
+cd
+ls
+history > /tmp/ejercitacion/history.txt
+sudo history > /tmp/ejercitacion/history.txt
+ls /tmp/ejercitacion/
+cat /etc/passwd
+su -ivan
+su - ivan
+history
+history > /tmp/ejercitacion/history.txt
+ls -ld /tmp/
+ls -ld /tmp/ejercitacion/
+sudo chmod 700 /tmp/ejercitacion/
+history > /tmp/ejercitacion/history.txt
+ls -ld /tmp/ejercitacion/
+sudo chmod 700 /tmp
+history > /tmp/ejercitacion/history.txt
+sudo chmod 777 /tmp/ejercitacion
+history > /tmp/ejercitacion/history.txt
+ls -ld /tmp/ejercitacion/
+sudo ls -ld /tmp/ejercitacion/
+ls -ld /tmp/ejercitacion
+sudo chmod 700 /tmp/ejercitacion
+ls -ld /tmp/ejercitacion
+hiatory
+history 
+ls -ld /tmp/ejercitacion
+ls
+cd ..
+cd tmp
+sudo cd tmp
+ls
+cd tmp
+sudo sd tmp/
+sudo cd tmp/
+cd /tmp
+ls -ld /tmp
+sudo chmod 1777 /tmp
+cd tmp/
+ls
+cd ejercitacion/
+ls -ld ejercitacion/
+sudo chmod 1777 ejercitacion/
+cd ejercitacion/
+ls
+cat /etc/passwd
+sudo adduser leerapellido
+cat /etc/passwd
+sudo adduser leerescribirapellido
+cat /etc/passwd
+adduser deidadhistory
+sudo adduser deidadhistory
+cat /etc/passwd
+sudo cat /etc/group
+cd
+groupadd 1grupo
+sudo groupadd 1grupo
+sudo cat /etc/group
+sudo usermod -a -G 1grupo leerapellido 
+sudo groups leerapellido 
+sudo chown :grupo1 /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+sudo chown :1grupo /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+ls -ld  /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+chown 040 /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+chmod 040 /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+chmod 440 /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+ls -ld  /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+chmod 444 /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+sudo chmod 040 /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+ls -ld  /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+ls /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+whoami
+su - apellido
+su - leerapellido 
+cat /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+ls -ld  /tmp/ejercitacion/respuesta/archivos/apellidoCPU.txt 
+ls /etc/passwd
+cat /etc/passwd
+sudo group add 2grupo
+sudo groupadd 2grupo
+sudo usermode -a -G 2grupo leerescribirapellido
+sudo usermode -aG 2grupo leerescribirapellido
+usermode -aG 2grupo leerescribirapellido
+sudo ls
+ls
+sudo usermode -aG 2grupo leerescribirapellido
+cd
+sudo usermode -aG 2grupo leerescribirapellido
+groups
+su -
+1234
+sudo -i
+sudo usermod -aG 2grupo leerescribirapellido
+sudo groups leerescribirapellido
+cd /tmp/ejercitacion/respuesta/archivos/
+ls
+cd ..
+ls
+cd ..
+ls
+cd respuesta/
+ls
+cd archivos/
+ls
+cd
+cat /sys/class/net/*/adress > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo cat /sys/class/net/*/adress > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo cat /sys/class/net/*/adress
+cat /sys/class/net/*/adress
+ls /sys/class/net
+ls /sys/class/net/lo
+ls /sys/class/net/lo/address 
+cat /sys/class/net/lo/address 
+cat /sys/class/net/enp0s3
+ls /sys/class/net/enp0s3
+ls /sys/class/net/enp0s3/address 
+cat /sys/class/net/enp0s3/address 
+sudo cat /sys/class/net/*/address > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo cat /sys/class/net/*/address 
+cd  /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+cd  /tmp/ejercitacion/respuesta/archivos
+ls
+cd
+sudo cat /sys/class/net/*/address > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+ls -ld  /tmp/ejercitacion/respuesta/archivos
+sudo chown ivan:ivan  /tmp/ejercitacion/respuesta/archivos
+ls -ld  /tmp/ejercitacion/respuesta/archivos
+sudo cat /sys/class/net/*/address > /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+cat  /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt
+sudo chown :2grupo  /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt 
+chmod 440  /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt 
+chmod 440 /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt 
+ls -ld  /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt 
+chmod 040 /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt 
+ls -ld  /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt 
+chmod 080 /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt 
+chmod man
+chomd --help
+chmod 060 /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt 
+ls -ld  /tmp/ejercitacion/respuesta/archivos/apellidoNombreRed.txt 
+cat /etc/passwd
+cat /etc/group
+groupadd 3grupo
+sudo groupadd 3grupo
+cat /etc/group
+sudo usermod -aG deidadhistory 3grupo
+sudo usermod -aG 3grupo deidadhistory 
+deidadhistory groups
+sudo groups deidadhistory 
+ls /tmp/ejercitacion/
+history > /tmp/ejercitacion/historial.txt
+cat /tmp/ejercitacion/historial.txt 
+ls -ld /tmp/ejercitacion/historial.txt 
+chmod 200 /tmp/ejercitacion/historial.txt 
+ls -ld /tmp/ejercitacion/historial.txt 
+chmod 400 /tmp/ejercitacion/historial.txt 
+ls -ld /tmp/ejercitacion/historial.txt 
+chown :3grupo /tmp/ejercitacion/historial.txt 
+sudo chown :3grupo /tmp/ejercitacion/historial.txt 
+ls -ld /tmp/ejercitacion/historial.txt 
+chmod 470 /tmp/ejercitacion/historial.txt 
+ls -ld /tmp/ejercitacion/historial.txt 
+kdisk
+fdisk
+fdisc
+fdisks
+ls /dev
+fdisc
+f disk
+ls /dev
+fdisk -l
+sudo fdisk -l
+ls
+ls /dev/
+cd sda
+ls -l /dev/
+sudo fdisk /dev/sdb
+ls /dev/
+fdisk -l
+sudo fdisk -l
+                                                                 lsblk
+sudo fdisk -l
+lbvlk
+lsblk
+sudo fdisk /dev/sdc
+ls blk
+lsblk
+sudo fdisk /dev/sdd
+sudo fdisk
+sudo fdisk /dev/sdd
+lsblk
+sudo fdisk /dev/sdd
+sudo unmount /dev/sdd
+unmount /dev/sdd
+umount /dev/sdd
+sudo fdisk /dev/sdd
+umount /dev/sdd
+                                lsblk
+tree
+sudo apt install tree
+sudo dpkg -a
+sudo dpkg --configure -a
+sudo apt install tree
+tree /tmp/
+tree
+ls
+rm -r discoB1 discoC discoC1 discoC3 discoD
+ls
+rm -r discoC2 dispositivos.txt mensaje.txt parcial/
+ls
+rm -r d
+rm -r desarollo/ discoB midir/ pandemia/ PRUEBA/
+sudo rm -r desarollo/ discoB midir/ pandemia/ PRUEBA/
+ls
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             mkdir repogit
+cd repogit/
+git clone git@github.com:ivanUrielSacks/TP_AySO.git
+ls
+cd TP_AySO/
+ls
+cat /etc/os-release 
+grep -i Home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+ls
+cat datos_usuario.txt 
+gita add.
+git add .
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt 
+git commit -m "feat: Añadiendo información de CPU"
+git add .
+git push
+git commit -m "feat: Añadiendo información de CPU"
+git push
+grep -v ":/usr/sbin/nologin" /etc/passwd | head -n 10 | sort -t: -k7
+grep -v ":/usr/sbin/nologin" /etc/passwd | head -n 10 | sort -k7 > lista_ordenada
+cat lista_ordenada 
+grep -v ":/usr/sbin/nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada 
+cat lista_ordenada 
+git status
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+history
+clear
+tdcdump
+tcpdump
+sudo tcpdump
+[200~Buscar con qué comando puede realizar un "dump traffic" de la red…. dejar el nombre del
+comando en el archivo “comando_dump_net” y agregar también que comando ejecutar para
+echo "tcpdump" > comando_dump_net
+echo "Ejecuta: sudo tcpdump -i <interfaz>
+" >> comando_dump_net
+sudo nano comando_dump_net 
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red ”"
+man HereDoc
+ls
+cat README.md 
+cat << EOF >> README.md
+Alumno: Ivan Sacks
+División: A111
+Turno: Mañana
+EOF
+
+cat README.md 
+sudo nano README.md 
+git add .
+git commit -m "agragar datos del alumno"
+history -a
